@@ -1,0 +1,2 @@
+# Sdomini
+Scrip termux
