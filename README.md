@@ -1,2 +1,2 @@
-# Sdomini
+# Sdominio
 Scrip termux
